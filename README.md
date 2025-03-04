@@ -49,7 +49,7 @@ To use **Google Gemini AI**, you need to add an API key.
 #### 🔹 **Method 1(a): Using `.env` File**
 1. Create a `.env` file in the project root:
 ```sh
-touch .env
+.env
 ```
 2. Add your API key inside `.env`:
 ```
