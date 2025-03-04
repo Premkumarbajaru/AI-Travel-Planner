@@ -83,7 +83,7 @@ This will start the **AI Travel Agent Tool** in your browser.
 
 ### Running the Cloud Deployed Version
 
-[Click here to access the deployed version](link)
+[Click here to access the deployed version](https://ai-travelplan.streamlit.app/)
 
 
 
